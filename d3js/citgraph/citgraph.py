@@ -1,3 +1,8 @@
+"""
+Python Script to extract data for the patent citation graph
+Author : Minyoon Jung (https://github.com/minyoon0205)
+"""
+
 import csv
 import sqlite3
 from collections import Counter
